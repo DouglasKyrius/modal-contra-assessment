@@ -1,4 +1,4 @@
-# Contra Frontend Technical Asessment
+# Frontend Technical Asessment
 
 ## Requirements
 
@@ -26,7 +26,6 @@ Next, you'll want to install the version of Node this repository uses -- `v16.11
 
 ```sh
 $ nvm install 16.11
-$ cd contra-interview-assessment
 $ nvm use
 ```
 
@@ -50,11 +49,9 @@ Now that `yarn` is installed locally, you'll want to run `yarn` to install depen
 $ yarn
 ```
 
-### Start the Frontend
+### Start the project
 
-We've provided a fresh NextJS project out of the box. Once you've installed the correct NodeJS version with `nvm`, installed the `yarn` package manager, and run `yarn` in the `frontend` directory to install dependencies, you're all set to start coding.
-
-To boot up the frontend, just run
+To boot up the project, just run
 
 ```sh
 $ yarn dev

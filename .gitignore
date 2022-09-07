@@ -15,6 +15,7 @@ src/types/api.ts
 
 *.log
 .*
+!.husky
 !.babelrc
 !.dockerignore
 !.editorconfig
