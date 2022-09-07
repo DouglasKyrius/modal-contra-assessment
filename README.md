@@ -1,4 +1,4 @@
-# Frontend Technical Asessment
+# Frontend Technical Assessment
 
 ## Requirements
 
